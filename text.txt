@@ -1,1 +1,1 @@
-{"eigen": "own", "in diesem Fall": "in this case", "bereits": "already"}
+{"eigen": "own", "in diesem Fall": "in this case", "bereits": "already", "auf keinen Fall": "not at all", "der Teil": "part", "der Herr": "man,Mr.", "in die Hand": "into one's own hands", "in der Welt": "in the world", "genau": "exact", "weiter": "additional", "in der Stadt": "in the city", "zum Teil": "in part", "wirklich": "really,actually", "die Welt": "world", "jedoch": "however", "im Folgenden": "in the following"}
