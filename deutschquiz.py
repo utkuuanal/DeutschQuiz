@@ -4,7 +4,7 @@ import json
 deutsch = json.load(open("text.txt"))
 
 
-print("Hello quiz started \n While in quiz you can type 'stopquiz' to stop the quiz\n  'passquestion' to pass to the next question\n   'show' to show the current question's answer")
+print("Hello quiz started \n While in quiz you can type 'stopquiz' to stop the quiz\n  'pass' to pass to the next question\n   's' to show the current question's answer\n    hatalar olabilir yağmur :-)")
 
 def quiz():
     global deutsch
@@ -26,9 +26,9 @@ def quiz():
                 print("correct")
                 break     
             except:
-                if x=="passquestion":
+                if x=="pass":
                     break
-                if x=="show":
+                if x=="s":
                     print(a+' '*10 +"<--NOW TYPE IT >:| ")
                 elif x=="stopquiz":
                     raise KeyboardInterrupt("help me enlarge the quiz dictionary... type help for help while in you are in quiz ")
